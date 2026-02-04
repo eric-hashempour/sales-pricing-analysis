@@ -129,6 +129,6 @@ If you'd like feedback or suggestions, feel free to reach out through GitHub or 
 
 # 📁 Data Source
 
-This project uses the “Superstore Dataset, publicly available on Kaggle:
+This project uses the “Superstore Dataset", publicly available on Kaggle:
 
 - [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?select=Sample+-+Superstore.csv)
